@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;Bus.java&apos; to &apos;EjbBusClient/src/com.java.ejb&apos;&#x0D;&#x0A;- Original project: &apos;EjbBusServer&apos;&#x0D;&#x0A;- Destination element: &apos;EjbBusClient/src/com.java.ejb&apos;&#x0D;&#x0A;- Original element: &apos;com.java.ejb.Bus.java&apos;" description="Copy compilation unit" destination="=EjbBusClient/src&lt;com.java.ejb" element1="/ejbModule&lt;com.java.ejb{Bus.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1669050250458" units="1" version="1.0"/>
+</session>
